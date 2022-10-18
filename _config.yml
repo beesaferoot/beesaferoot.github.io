@@ -1,7 +1,10 @@
-title: My Thoughts
-author: 
-  name: beesaferoot
-  email: hikenike6@gmail.com
+title: Beesafe
+email: hikenike6@gmail.com
 
 description: Computer enthusiast, AI fanatic, technologist, Meta human, Hacker! 
-theme: minima
+url: https://beesaferoot.github.io/
+github_username: beesaferoot
+
+# Build settings
+# Removed Gem-based theme, let jekyll use as regular theme
+# theme: minima
