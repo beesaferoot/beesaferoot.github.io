@@ -1,4 +1,5 @@
-title: Beesafe
+title: Beesafe's Blog
+name: Obinna
 email: hikenike6@gmail.com
 
 description: Computer enthusiast, AI fanatic, technologist, Meta human, Hacker! 
@@ -6,6 +7,7 @@ url: https://beesaferoot.github.io/
 github_username: beesaferoot
 linkedin_username: obinna-ikeh
 author: Obinna Ikeh
+avatar: /assets/avatar.jpeg
 
 # Build settings
 # Removed Gem-based theme, let jekyll use as regular theme
